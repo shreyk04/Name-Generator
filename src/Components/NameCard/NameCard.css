@@ -1,0 +1,15 @@
+.result-card {
+  background-color: rgb(65, 75, 71);
+  min-width: 200px;
+  border-radius: 1rem;
+  text-align: center;
+  font-size: 1.2rem;
+  margin: 10px 15px;
+  display: flex;
+  justify-content: center;
+}
+
+.result-link {
+  text-decoration: none;
+  color: aliceblue;
+}

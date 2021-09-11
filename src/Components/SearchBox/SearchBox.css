@@ -1,0 +1,17 @@
+.search-box {
+  display: flex;
+  justify-content: center;
+}
+#search-input {
+  padding: 1rem;
+  width: 400px;
+  text-align: center;
+  border-radius: 1rem;
+  border: none;
+  background-color: #cad5e2;
+  font-size: 1.2rem;
+}
+
+#search-input:focus {
+  outline: none;
+}
